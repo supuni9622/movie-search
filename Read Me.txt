@@ -1,0 +1,38 @@
+	ShoutOUT aptitude test - TV series search engine
+============================================
+
+This search engine is totaly based on react.
+
+I would like to suggest you two methods to run this application in local environment
+
+1st method-
+
+	So you can open this folder in your code editer and go to 'movie-search' folder by typing 'cd movie-search' in your terminal.
+
+	To install node modules and dependencies; command 'npm install'
+
+	Then it'll be installed node modules and dependencies 
+
+	Then type 'npm start' to run the application in local environment
+
+	Application will be open in the browser by localhost:3000
+
+2nd method -
+
+	Use this method if only the above method doesn't work 
+
+	Create react project called 'movie-search' by typing 'npx create-react-app movie-search'
+
+	Then replace src folder by this src folder of this application
+
+	Add bootstrap CDN and fontawesome CDN to 'index.html' file in 'public' folder
+
+	Install react-bootstrap npm package using 'npm install react-bootstrap --save' command
+
+	Type 'npm start' to run application
+
+---------------------------------------------
+
+Deployment 
+
+	Application url - https://supuni9622.github.io/movie-search/
